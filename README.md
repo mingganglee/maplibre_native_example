@@ -12,7 +12,12 @@
 
 Use online data by default
 
+![online](materials/online.jpg)
+
 Using local data, modify the `app/src/main/java/com/icu/maplibre/MainActivity.java` file to use 49 lines of code
+
+![offline1](materials/offline1.jpg)
+![offline2](materials/offline2.jpg)
 
 ## Change local data
 
